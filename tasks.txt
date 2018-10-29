@@ -1,3 +1,6 @@
 To do list
 -obtain the data
 -summarize by variable
+-addeded in github1
+-added in github2
+-thank you leanpub an djhu ! for teachin gall these steps !!
