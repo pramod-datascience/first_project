@@ -3,4 +3,4 @@ To do list
 -summarize by variable
 -addeded in github1
 -added in github2
--thank you leanpub an djhu ! for teachin gall these steps !!
+-thank you leanpub and JHU ! for teachin gall these steps !!
