@@ -1,0 +1,3 @@
+To do list
+-obtain the data
+-summarize by variable
